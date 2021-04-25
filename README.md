@@ -3,8 +3,7 @@
 
 
 ## 填写cookie和打印的目录
-cookie和目录见[https://github.com/longfeizheng/baidu-pan/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210425102953.png]{https://github.com/longfeizheng/baidu-pan/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210425102953.png}
-
+cookie和目录见 ![https://raw.githubusercontent.com/longfeizheng/longfeizheng.github.io/master/images/java/pan.png](https://raw.githubusercontent.com/longfeizheng/longfeizheng.github.io/master/images/java/pan.png)
 
 ## 打印如下：
 
