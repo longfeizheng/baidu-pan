@@ -31,4 +31,11 @@
         </dependency>
     </dependencies>
 
+    <repositories>
+        <repository>
+            <id>nd.repository</id>
+            <name>NetDragon HY Maven Repository</name>
+            <url>http://nexus.sdp.nd/nexus/content/groups/public/</url>
+        </repository>
+    </repositories>
 </project>
