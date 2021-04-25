@@ -5,7 +5,7 @@
 ## 填写cookie和打印的目录
 cookie和目录见 ![https://raw.githubusercontent.com/longfeizheng/longfeizheng.github.io/master/images/java/pan.png](https://raw.githubusercontent.com/longfeizheng/longfeizheng.github.io/master/images/java/pan.png)
 
-## 打印如下：
+## 打印效果如下：
 
 ```txt
 /0221版本不加密--Java架构师直通车
