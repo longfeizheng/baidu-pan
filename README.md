@@ -3,7 +3,7 @@
 
 
 ## 填写cookie和打印的目录
-cookie和目录见 ![https://raw.githubusercontent.com/longfeizheng/longfeizheng.github.io/master/images/java/pan.png](https://raw.githubusercontent.com/longfeizheng/longfeizheng.github.io/master/images/java/pan.png)
+cookie和目录见 ![https://raw.githubusercontent.com/longfeizheng/longfeizheng.github.io/master/images/java/46.gif](https://raw.githubusercontent.com/longfeizheng/longfeizheng.github.io/master/images/java/46.gif)
 
 ## 打印效果如下：
 
@@ -373,3 +373,6 @@ cookie和目录见 ![https://raw.githubusercontent.com/longfeizheng/longfeizheng
 
 ```
 
+## 下载地址
+
+[https://github.com/longfeizheng/baidu-pan/releases](https://github.com/longfeizheng/baidu-pan/releases)
